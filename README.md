@@ -1,2 +1,3 @@
-# Ola_Mundo
- 1 repositorio versionado
+# Olá, Mundo!
+ Primeiro repositorio versionado
+ Repositorio criado ao vivo github
